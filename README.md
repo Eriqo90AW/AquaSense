@@ -25,9 +25,9 @@ This Project is built using the following technologies:
 
 ## Schematic
 
-<img width="7634" alt="Diagram Schematic" src="https://github.com/abdfikih/diagram-schematic.png">
+<img width="7634" alt="Diagram Schematic" src="https://github.com/Eriqo90AW/AquaSense/blob/main/diagram-schematic.png??raw=true">
 
-<img width="7634" alt="Diagram Goals" src="https://github.com/abdfikih/diagram-schematic.png">
+<img width="7634" alt="Diagram Goals" src="https://github.com/Eriqo90AW/AquaSense/blob/main/diagram-goals.png??raw=true">
 
 ## Documentation
 
