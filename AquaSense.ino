@@ -16,7 +16,7 @@ const int WaterLevelPin = 34;      // Pin untuk sensor water level
 const int TurbiditySensorPin = 35; // Pin untuk sensor turbidity
 const int LEDPin = 5;             // Pin untuk LED
 
-const int delayTime = 100;
+const int delayTime = 500;
 
 float tempWater = 0.0; 
 int levelWater = 0;
@@ -43,33 +43,33 @@ void connectToWiFi() {
 }
 
 void taskOled(void *pvParameters) {
-  while (true) {
-    display.clearDisplay();
+    while (true) {
+      display.clearDisplay();
 
-    // Display temperature
-    display.setTextSize(1);
-    display.setTextColor(SSD1306_WHITE);
-    display.setCursor(0, 0);
-    display.print("Temp: ");
-    display.print(tempWater);
-    display.println(" C");
+      // Display temperature
+      display.setTextSize(1);
+      display.setTextColor(SSD1306_WHITE);
+      display.setCursor(0, 0);
+      display.print("Temp: ");
+      display.print(tempWater);
+      display.println(" C");
 
-    // Display water level
-    display.setCursor(0, 10);
-    display.print("Water Level: ");
-    display.println(levelWater);
+      // Display water level
+      display.setCursor(0, 10);
+      display.print("Water Level: ");
+      display.println(levelWater);
 
-    // Display turbidity
-    display.setCursor(0, 20);
-    display.print("Turbidity: ");
-    display.println(levelTurbi);
+      // Display turbidity
+      display.setCursor(0, 20);
+      display.print("Turbidity: ");
+      display.println(levelTurbi);
 
-    Serial.println("Temp:\t\t" + String(tempWater));
-    Serial.println("Water Level:\t" + String(levelWater));
-    Serial.println("Turbidity:\t" + String(levelTurbi));
+      Serial.println("Temp:\t\t" + String(tempWater));
+      Serial.println("Water Level:\t" + String(levelWater));
+      Serial.println("Turbidity:\t" + String(levelTurbi));
 
-    display.display();
-  }
+      display.display();
+    }
 }
 
 void taskWaterTemp(void *pvParameters) {
