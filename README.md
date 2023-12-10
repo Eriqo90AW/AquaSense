@@ -46,4 +46,11 @@ This Project is built using the following technologies:
 ## Documentation
 
 Link to report progress:
-
+- **Main Device:**
+<img width="7634" alt="Main Device" src="https://github.com/Eriqo90AW/AquaSense/blob/main/final-device.jpg??raw=true">
+- **Aquarium and its sensors:**
+<img width="7634" alt="Aquarium and its sensors" src="https://github.com/Eriqo90AW/AquaSense/blob/main/final-aquarium.jpg??raw=true">
+- **Final Assembly:**
+<img width="7634" alt="Final Assembly" src="https://github.com/Eriqo90AW/AquaSense/blob/main/final-assembly.jpg??raw=true">
+- **Mobile User Interface:**
+<img width="7634" alt="Mobile User Interface" src="https://github.com/Eriqo90AW/AquaSense/blob/main/final-ui.jpg??raw=true">
