@@ -67,19 +67,19 @@ The subsequent testing phase focused on evaluating WiFi connectivity and Blynk i
 
 ## Serial Monitor
 
-<img width="4000" alt="Serial Monitor" src="https://github.com/Eriqo90AW/AquaSense/blob/main/assets/serial-1.png??raw=true">
+<img height="500" alt="Serial Monitor" src="https://github.com/Eriqo90AW/AquaSense/blob/main/assets/serial-1.png??raw=true">
 
 ## Display
 
-<img width="4000" alt="Display Monitor" src="https://github.com/Eriqo90AW/AquaSense/blob/main/assets/serial-2.png??raw=true">
+<img height="500" alt="Display Monitor" src="https://github.com/Eriqo90AW/AquaSense/blob/main/assets/serial-2.png??raw=true">
 
 ## Blynk
 
-<img width="4000" alt="Display Blynk" src="https://github.com/Eriqo90AW/AquaSense/blob/main/assets/blynk-app.png??raw=true">
+<img height="500" alt="Display Blynk" src="https://github.com/Eriqo90AW/AquaSense/blob/main/assets/blynk-app.png??raw=true">
 
 ## Circuit
 
-<img width="4000" alt="Diagram Circuit" src="https://github.com/Eriqo90AW/AquaSense/blob/main/assets/final-device.png??raw=true">
+<img height="500" alt="Diagram Circuit" src="https://github.com/Eriqo90AW/AquaSense/blob/main/assets/final-device.png??raw=true">
 
 # VI. Conclusion and Future Work
 
