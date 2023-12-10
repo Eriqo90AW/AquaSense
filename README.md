@@ -4,7 +4,7 @@
   <h1 align="center">Welcome to AquaSenseHub</h1>
 </div>
 
-The AquaSenseHub project utilizes various sensors to monitor aquarium conditions and ensure the well-being of fish. The DHT11 temperature sensor is employed to check the temperature, a pH sensor measures acidity levels, a water level sensor observes water height, and a Total Dissolved Solids (TDS) sensor assesses water clarity. The automatic feeding involves actuators that can be manually or automatically controlled, connected to an ESP32. Smart notifications are sent via the MQTT protocol over WiFi when parameters deviate from normal limits. The entire connectivity relies on WiFi to link the ESP32 with the Blynk application, transferring data through the MQTT protocol. With this integration, AquaSenseHub provides accurate monitoring and responsive notifications, making aquarium maintenance and management more convenient.
+The AquaSenseHub project utilizes various sensors to monitor aquarium conditions and ensure the well-being of fish. The DHT11 temperature sensor is employed to check the temperature, a pH sensor measures acidity levels, a water level sensor observes water height, and a Total Dissolved Solids (TDS) sensor assesses water clarity. The automatic feeding involves actuators that can be manually or automatically controlled, connected to an ESP32. Smart notifications are sent via the MQTT protocol over WiFi when parameters deviate from normal limits. The entire connectivity relies on WiFi to link the ESP32 with the Blynk application. With this integration, AquaSenseHub provides accurate monitoring and responsive notifications, making aquarium maintenance and management more convenient.
 
 ## Contributors
 
