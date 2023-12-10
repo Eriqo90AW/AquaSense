@@ -30,7 +30,7 @@ Explore these features to make your aquarium experience even better!
 
 ## Schematic
 
-<img width="7634" alt="Diagram Schematic" src="https://github.com/Eriqo90AW/AquaSense/blob/main/diagram-schematic.png??raw=true">
+<img width="7634" alt="Diagram Schematic" src="https://github.com/Eriqo90AW/AquaSense/blob/main/assets/diagram-schematic.png??raw=true">
 
 This Project is built using the following technologies:
 
@@ -48,7 +48,7 @@ Among the array of sensors, the Water Level Sensor Universal plays a pivotal rol
 
 # III. Network infrastructure
 
-<img width="7634" alt="Diagram Goals" src="https://github.com/Eriqo90AW/AquaSense/blob/main/diagram-goals.png??raw=true">
+<img width="7634" alt="Diagram Goals" src="https://github.com/Eriqo90AW/AquaSense/blob/main/assets/diagram-goals.png??raw=true">
 The infrastructure of AquaSenseHub is meticulously designed to seamlessly integrate diverse components, ensuring optimal functionality and user engagement. At its core is the ESP32 microcontroller, serving as the central hub that orchestrates data flow and task execution. The OLED Module 0.96, driven by the Adafruit_SSD1306 library, provides a clear visual interface for real-time data presentation. The Blynk App acts as a remote monitoring and control platform, connecting the system to the broader IoT network. Supporting the sensor array, the Water Level Sensor Universal maintains stability, the Dallas Temperature Sensor (DS18B20) regulates water temperature, the Turbidity Sensor Module (AB147) ensures water clarity, and the PH Meter Module (PH-4502C) monitors pH levels. This interconnected infrastructure transforms AquaSenseHub into a sophisticated and user-friendly aquarium monitoring system, seamlessly blending hardware and software components to deliver real-time insights and control capabilities for aquarium enthusiasts.
 
 # IV. Software Implementation Details
@@ -67,11 +67,19 @@ The subsequent testing phase focused on evaluating WiFi connectivity and Blynk i
 
 ## Serial Monitor
 
+<img width="7634" alt="Serial Monitor" src="https://github.com/Eriqo90AW/AquaSense/blob/main/assets/serial-1.png??raw=true">
+
 ## Display
+
+<img width="7634" alt="Display Monitor" src="https://github.com/Eriqo90AW/AquaSense/blob/main/assets/serial-2.png??raw=true">
 
 ## Blynk
 
+<img width="7634" alt="Display Blynk" src="https://github.com/Eriqo90AW/AquaSense/blob/main/assets/blynk-app.png??raw=true">
+
 ## Circuit
+
+<img width="7634" alt="Diagram Circuit" src="https://github.com/Eriqo90AW/AquaSense/blob/main/assets/final-device.png??raw=true">
 
 # VI. Conclusion and Future Work
 
