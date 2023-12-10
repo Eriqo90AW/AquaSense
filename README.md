@@ -8,7 +8,7 @@ The AquaSenseHub project utilizes various sensors to monitor aquarium conditions
 
 ## Contributors
 
-This is a final Internet of Things project made by Group A8:
+This is a final Internet of Things project made by Group A9:
 
 - [Abdul Fikih Kurnia](https://www.github.com/abdfikih) - 2106731200
 - [Bintang Marsyuma Rakhasunu](https://www.github.com/marsyuma) - 2106731415
@@ -18,10 +18,24 @@ This is a final Internet of Things project made by Group A8:
 ## Installation
 
 ## Features
+- **Real-time Sensor Monitoring:** Keep an eye on pH levels, water levels, temperature, and turbidity in real-time.
+- **User-friendly Interface:** Use the OLED display and Blynk app for an easy-to-understand interface.
+- **Remote Control:** Manage the aquarium system remotely through the Blynk app.
+- **Automated Fish Feeding:** Feed your fish with a click by activating the servo mechanism through the app.
+
+Explore these features to make your aquarium experience even better!
 
 ## Technologies
 
 This Project is built using the following technologies:
+
+- **ESP32 Microcontroller:** The brain that integrates sensors and processes data.
+- **OLED Module 0.96 (Adafruit_SSD1306):** Displays real-time sensor readings in an easy-to-read format.
+- **Blynk App:** Monitor and control the aquarium remotely using the Blynk mobile application.
+- **Water Level Sensor Universal:** to measure water levels accurately, ensuring stability in the aquarium environment.
+- **Dallas Temperature Sensor (DS18B20):** monitors and regulates water temperature with precision, contributing to a comfortable and conducive habitat for aquatic life.
+- **Turbidity Sensor Module (AB147):** utilizes optical sensors to gauge water clarity, assisting in maintaining a clean and healthy aquatic ecosystem.
+- **PH Meter Module (PH-4502C):** measures real-time pH levels, ensuring the correct acidity or alkalinity for the optimal well-being of aquarium inhabitants.
 
 ## Schematic
 
@@ -32,3 +46,4 @@ This Project is built using the following technologies:
 ## Documentation
 
 Link to report progress:
+
