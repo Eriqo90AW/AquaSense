@@ -71,7 +71,7 @@ The subsequent testing phase focused on evaluating WiFi connectivity and Blynk i
 
 ## Display
 
-<img height="100" width="200" alt="Display Monitor" src="https://github.com/Eriqo90AW/AquaSense/blob/main/assets/serial-2.png??raw=true">
+<img height="100" width="500" alt="Display Monitor" src="https://github.com/Eriqo90AW/AquaSense/blob/main/assets/serial-2.png??raw=true">
 
 ## Blynk
 
